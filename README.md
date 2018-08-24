@@ -24,7 +24,7 @@
 - image: continuumio/anaconda3
 
 ## build-conda-1
-- docker로 운영 중
+- docker 기반
 - host: iMac
 - image: continuumio/anaconda3
 
