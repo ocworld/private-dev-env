@@ -40,7 +40,7 @@
 - host: 개인 NAS
 - image: centos
 
-# 산출물 개인 저장소: minio
+# 개인 산출물 저장소: minio
 - docker 기반
 - host: 개인 NAS
 - image: minio/minio
