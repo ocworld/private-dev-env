@@ -1,6 +1,12 @@
 # private-dev-env
 개인 개발 환경
 
+1. github commit, push, and merge
+2. jenkins 빌드
+3. jenkins remote agent에서 빌드/유닛테스트 수행
+4. 빌드 산출물 중 보관이 필요한 파일은 minio에 저장
+5. (Release일 경우) 배포
+
 # code repository: git
 - github private 계정으로 관리
 - https://github.com/ocworld/
